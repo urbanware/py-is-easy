@@ -1,3 +1,6 @@
+# /usr/bin/env python3
+
+
 '''
 For completion of Homework 01 at pirple.com
 
@@ -18,6 +21,34 @@ isbn_13 = "978-0-7857-5431-2"
 asin = "B00AA2O5RW"
 quick_review = "Questions society about clones and gender roles.  Has an interesting puzzle and mystery solving dynamic that I enjoyed but the ending was not fulfilling. Could have been the first book of a trilogy."
 
+print("***************************")
+print("***************************")
+print(author)
+print(title)
+print(genre)
+print(rating)
+print(year)
+print(bsfa_award)
+print(nebula_award)
+print(isbn_10)
+print(isbn_13)
+print(asin)
+print(quick_review)
+
+print("***************************")
+print("***************************")
+print("Author :", author)
+print("Title :", title)
+print("Genre :", genre)
+print("Rating :", rating)
+print("Year :", year)
+print("BSFS Award :", bsfa_award)
+print("Nebula Award :", nebula_award)
+print("ISBN 10 :", isbn_10)
+print("ISBN 13 :", isbn_13)
+print("ASIN :", asin)
+print("Quick review :", quick_review)
+
 
 author = "Robert Silverberg"
 title = "Lord Valentine's Castle"
@@ -30,6 +61,34 @@ isbn_10 = "1125594047"
 isbn_13 = "978-1125594049"
 asin = "B01A64FH4I"
 quick_review = "Was initially a trilogy then spawned another trilogy on the same planet at a different time.  Follow a juggler as he finds out he's Coronal and brings his world of Majipoor together. Great word salad terms yet you remain capitvated by the story and wish you could visit. "
+
+print("***************************")
+print("***************************")
+print(author)
+print(title)
+print(genre)
+print(rating)
+print(year)
+print(bsfa_award)
+print(nebula_award)
+print(isbn_10)
+print(isbn_13)
+print(asin)
+print(quick_review)
+
+print("***************************")
+print("***************************")
+print("Author :", author)
+print("Title :", title)
+print("Genre :", genre)
+print("Rating :", rating)
+print("Year :", year)
+print("BSFS Award :", bsfa_award)
+print("Nebula Award :", nebula_award)
+print("ISBN 10 :", isbn_10)
+print("ISBN 13 :", isbn_13)
+print("ASIN :", asin)
+print("Quick review :", quick_review)
 
 
 author = "Kim Stanley Robinson"
@@ -44,6 +103,34 @@ isbn_13 = "978-0553560732"
 asin = "B00HS7LI4A"
 quick_review = "Best novel on human colonization of Mars.  Gives a real sense of what it would take technically, the politics of environment, all in a realistic future.  Trilogy with Green Mars, Blue Mars."
 
+print("***************************")
+print("***************************")
+print(author)
+print(title)
+print(genre)
+print(rating)
+print(year)
+print(bsfa_award)
+print(nebula_award)
+print(isbn_10)
+print(isbn_13)
+print(asin)
+print(quick_review)
+
+print("***************************")
+print("***************************")
+print("Author :", author)
+print("Title :", title)
+print("Genre :", genre)
+print("Rating :", rating)
+print("Year :", year)
+print("BSFS Award :", bsfa_award)
+print("Nebula Award :", nebula_award)
+print("ISBN 10 :", isbn_10)
+print("ISBN 13 :", isbn_13)
+print("ASIN :", asin)
+print("Quick review :", quick_review)
+
 
 author = "Ray Bradbury"
 title = "Fahrenheit 451"
@@ -56,6 +143,34 @@ isbn_10 = "9781451673319"
 isbn_13 = "978-1451673319"
 asin = "3453319834"
 quick_review = "Dystopian future about burning books to control information.  Tale about government control."
+
+print("***************************")
+print("***************************")
+print(author)
+print(title)
+print(genre)
+print(rating)
+print(year)
+print(bsfa_award)
+print(nebula_award)
+print(isbn_10)
+print(isbn_13)
+print(asin)
+print(quick_review)
+
+print("***************************")
+print("***************************")
+print("Author :", author)
+print("Title :", title)
+print("Genre :", genre)
+print("Rating :", rating)
+print("Year :", year)
+print("BSFS Award :", bsfa_award)
+print("Nebula Award :", nebula_award)
+print("ISBN 10 :", isbn_10)
+print("ISBN 13 :", isbn_13)
+print("ASIN :", asin)
+print("Quick review :", quick_review)
 
 
 author = "Arthur C. Clarke"
@@ -70,6 +185,34 @@ isbn_13 = "978-0553287899"
 asin = "B0073C34LK"
 quick_review = "Discover of intersteller ship in space. Later made into a series."
 
+print("***************************")
+print("***************************")
+print(author)
+print(title)
+print(genre)
+print(rating)
+print(year)
+print(bsfa_award)
+print(nebula_award)
+print(isbn_10)
+print(isbn_13)
+print(asin)
+print(quick_review)
+
+print("***************************")
+print("***************************")
+print("Author :", author)
+print("Title :", title)
+print("Genre :", genre)
+print("Rating :", rating)
+print("Year :", year)
+print("BSFS Award :", bsfa_award)
+print("Nebula Award :", nebula_award)
+print("ISBN 10 :", isbn_10)
+print("ISBN 13 :", isbn_13)
+print("ASIN :", asin)
+print("Quick review :", quick_review)
+
 
 author = "Barbara Hambly"
 title = "Dragonsbane"
@@ -82,6 +225,34 @@ isbn_10 = "0345349393"
 isbn_13 = "978-0345349392"
 asin = "B004TC149G"
 quick_review = "Love story between a wizard and a dragon."
+
+print("***************************")
+print("***************************")
+print(author)
+print(title)
+print(genre)
+print(rating)
+print(year)
+print(bsfa_award)
+print(nebula_award)
+print(isbn_10)
+print(isbn_13)
+print(asin)
+print(quick_review)
+
+print("***************************")
+print("***************************")
+print("Author :", author)
+print("Title :", title)
+print("Genre :", genre)
+print("Rating :", rating)
+print("Year :", year)
+print("BSFS Award :", bsfa_award)
+print("Nebula Award :", nebula_award)
+print("ISBN 10 :", isbn_10)
+print("ISBN 13 :", isbn_13)
+print("ASIN :", asin)
+print("Quick review :", quick_review)
 
 
 author = "Barbara Hambly"
@@ -96,3 +267,30 @@ isbn_13 = None
 asin = "B001MVXUA8"
 quick_review = "Sun Wolf and Starhawk adventures in wizardry."
 
+print("***************************")
+print("***************************")
+print(author)
+print(title)
+print(genre)
+print(rating)
+print(year)
+print(bsfa_award)
+print(nebula_award)
+print(isbn_10)
+print(isbn_13)
+print(asin)
+print(quick_review)
+
+print("***************************")
+print("***************************")
+print("Author :", author)
+print("Title :", title)
+print("Genre :", genre)
+print("Rating :", rating)
+print("Year :", year)
+print("BSFS Award :", bsfa_award)
+print("Nebula Award :", nebula_award)
+print("ISBN 10 :", isbn_10)
+print("ISBN 13 :", isbn_13)
+print("ASIN :", asin)
+print("Quick review :", quick_review)
