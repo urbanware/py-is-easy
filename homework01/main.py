@@ -1,12 +1,15 @@
-# /usr/bin/env python3
+#!/usr/bin/env python3
 
+# For completion of Homework 01 at pirple.com
+# Walter Spicer
 
 '''
-For completion of Homework 01 at pirple.com
-
 I don't listen to music at all so I'll list favourite sci-fi books growing up.
-Also PEP-8 style guide refers to variable case as lower with underscores so I'll be using that.
 
+Used PEP-8 style guide for variables in lower case.  Not sure why that isn't the case in the assignment.
+Assignment didn't call for it but for each block I added a bit of formatting to see what that looked like and if the basic parameter could be used to print on its own.
+
+Also put up on https://github.com/urbanware/py-is-easy.git
 '''
 
 author = "David Brin"
