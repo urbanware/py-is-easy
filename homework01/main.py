@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # For completion of Homework 01 at pirple.com
-# Walter Spicer
+#
 
 '''
 I don't listen to music at all so I'll list favourite sci-fi books growing up.

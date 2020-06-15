@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # For completion of Homework 03 at pirple.com
-# Walter Spicer
+#
 
 """
 Details:
