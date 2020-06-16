@@ -1,5 +1,0 @@
-{
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.pythonPath": "/home/zig/anaconda3/envs/PythonTut/bin/python"
-}
