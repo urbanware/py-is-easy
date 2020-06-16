@@ -58,7 +58,8 @@ def is_prime(num):
     Also needed two variables not one to work so that it tests the loop
     up to the value. 
     """
-
+    
+    # Apparently 1 is not a prime
     if num == 1:
         return False
     # elif num % i == 0:
@@ -67,7 +68,7 @@ def is_prime(num):
     #     return True
     # #fail
 
-    # Need both the interator and a value
+    # Need both the iterator and a value
     # modulo divide by iterator i
     for i in range(2, num):
         if num % i == 0:
